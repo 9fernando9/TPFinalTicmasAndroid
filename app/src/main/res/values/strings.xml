@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComparandoString</string>
+    <string name="resultado">...</string>
+    <string name="comparar">Comparar</string>
+    <string name="titulo">Ingrese cadenas a comparar</string>
+    <string name="primera_cadena">Primera cadena</string>
+    <string name="segunda_cadena">Segunda cadena</string>
+</resources>
